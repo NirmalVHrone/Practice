@@ -1,0 +1,89 @@
+{
+  "predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "topic": "Geo-fencing and Mobile Attendance",
+        "outline": "1. The death of the biometric machine. 2. Trust vs. Tracking. 3. Mobile integration.",
+        "brand_name": "HrOne",
+        "industry_example": "Post-COVID hybrid work adoption rates.",
+        "client_example": "GenericPharma handled 500+ field sales staff attendance seamlessly.",
+        "negative_keywords": "Punch clock, strict monitoring, surveillance, hardware cost",
+        "content_draft": "\n        The biometric machine on the wall is becoming a relic of the past. With hybrid work adoption soaring post-COVID, you can't tether attendance to a physical location anymore.\n        \n        While some competitors push for rigid desktop monitoring, HrOne empowers the field workforce. \n        Imagine a sales rep for GenericPharma. They don't come to the office; they go to the doctor's clinic.\n        Using HrOne's geo-fencing, they mark attendance from the client site. It validates the location without being invasive.\n        \n        This balances trust with accountability, ensuring you get accurate data without treating your workforce like robots.\n        "
+      },
+      {
+        "topic": "Automating Indian Payroll & Compliance",
+        "outline": "1. The headache of month-end processing. 2. Statutory compliance risks. 3. The HrOne advantage. 4. Real-world impact.",
+        "brand_name": "HrOne",
+        "industry_example": "The 2023 shift where 60% of Indian mid-caps moved to cloud payroll.",
+        "client_example": "Haier Appliances reduced payroll processing time by 4 days.",
+        "negative_keywords": "Cheap, Free tool, Manual excel, complicated setup",
+        "content_draft": "\n        Month-end payroll shouldn't feel like a battlefield. Yet, for many HR teams, it's a cycle of spreadsheet chaos and compliance anxiety.\n        \n        While industry shifts show that 60% of Indian mid-caps are moving to the cloud, many still get stuck with software that is pretty to look at but weak on core logic. \n        Unlike platforms like Keka, which are known for their UI, HrOne prioritizes the depth of Indian statutory compliance. We don't just calculate salaries; we lock down compliance.\n        \n        Take our work with Haier Appliances as a prime example. Before automating, their team spent a week reconciling data. After switching to HrOne’s auto-lock mechanism, they reduced payroll processing time by 4 full days.\n        \n        It’s not just about paying people; it’s about the peace of mind that comes from knowing every PF and ESI deduction is accurate to the decimal.\n        "
+      },
+      {
+        "topic": "The First 90 Days: Remote Onboarding",
+        "outline": "1. The drop-off rate of new hires. 2. Asset allocation & documentation. 3. The human touch in digital onboarding.",
+        "brand_name": "HrOne",
+        "industry_example": "The rise of 'Ghosting' by candidates in the IT sector.",
+        "client_example": "Muthoot Fincorp digitized 100% of their joining document collection.",
+        "negative_keywords": "Paperwork, physical files, delay, confusion",
+        "content_draft": "\n        Candidate ghosting is at an all-time high in the IT sector. If your onboarding process is slow, you lose talent before day one.\n        \n        Global tools like Rippling are fantastic for IT asset management across borders. But when it comes to the nitty-gritty of Indian joining formalities—Aadhar verification, family nominations, and local policy acceptance—you need a localized expert.\n        \n        HrOne bridges this gap. We turn the first day into a celebration, not a paperwork drill.\n        For instance, Muthoot Fincorp used our platform to digitize 100% of their document collection. New hires finished their paperwork before they even stepped into the office (or logged onto Zoom).\n        "
+      },
+      {
+        "topic": "Continuous Feedback over Annual Reviews",
+        "outline": "1. Why annual reviews are dead. 2. The need for real-time nudges. 3. Simplifying the process.",
+        "brand_name": "HrOne",
+        "industry_example": "Microsoft's abandonment of stack ranking systems.",
+        "client_example": "Lenskart improved employee engagement scores by 15%.",
+        "negative_keywords": "Bureaucracy, paper-trail, complex configuration, punishment",
+        "content_draft": "\n        The era of the 'scary annual review' is over. Companies are realizing that waiting 12 months to give feedback is a recipe for stagnation. \n        We saw this when giants like Microsoft abandoned stack ranking—it simply kills morale.\n        \n        However, the solution isn't to buy a complex enterprise suite. Tools like Darwinbox offer incredible depth for massive conglomerates, but for agile teams, that depth often turns into administrative clutter.\n        HrOne takes a different approach: 'Simple is the new Smart.'\n        \n        We strip away the jargon. We enabled Lenskart to switch from heavy annual processes to lightweight, mobile-first check-ins. The result? A 15% jump in engagement scores.\n        Your employees live on their phones; your performance system should too.\n        "
+      }
+    ],
+    "signature": {
+      "instructions": "Write full content based on an outline. \nMUST integrate specific Industry and Client examples naturally.\nMUST adhere to the Brand Name and avoid Negative Keywords.\n\nYou are an expert human blogger. Write the blog in a way that is indistinguishable from human writing. Follow these rules strictly:\n\n1. Style & Tone\n    - Use a natural, imperfect, human tone — not polished or generic.\n    - Vary sentence length: mix short, punchy lines with longer, reflective ones.\n    - Show emotion, curiosity, and personality in subtle ways.\n    - Avoid “AI writing patterns” like:\n        - “In today’s world…”\n        - “It is important to note that…”\n        - “On the other hand…”\n        - Overly balanced or neutral tone.\n\n2. Human Imperfections\n    - Include mild imperfections:\n        - Occasional sentence fragments\n        - Slightly informal transitions\n        - Conversational expressions\n    - Break the flow in places where a human naturally would.\n\n3. Realism & Depth\n    - Add specific details, real-world examples, analogies, or mini-stories.\n    - Use opinions, personal reflections, and insights—don’t sound neutral or generic.\n    - Avoid repeating ideas or rephrasing the same point.\n\n4. Vocabulary\n    - Mix simple words with occasional advanced vocabulary, the way humans naturally do.\n    - Avoid any repetitive phrasing or template-like structure.\n\n5. Structure\n    - Start with a hook that feels spontaneous, not formulaic.\n    - Let the content flow like a conversation, not a lecture.\n    - Use headings only when necessary, not mechanically.\n\n6. Forbidden Behaviors\n    - Do NOT:\n        - Use robotic transitions\n        - Over-explain anything\n        - Give perfect logical structure\n        - Use clichés\n        - Sound like a corporate brochure\n        - Repeat the user’s prompt at the beginning\n\n7. Goal\n    - The reader should feel a human presence behind the writing—unique voice, quirks, personality, opinions, lived experience\n\n\n    ",
+      "fields": [
+        {
+          "prefix": "Topic:",
+          "description": "${topic}"
+        },
+        {
+          "prefix": "Outline:",
+          "description": "${outline}"
+        },
+        {
+          "prefix": "Brand Name:",
+          "description": "${brand_name}"
+        },
+        {
+          "prefix": "Industry Example:",
+          "description": "Real world industry case to mention"
+        },
+        {
+          "prefix": "Client Example:",
+          "description": "Specific client success story to mention"
+        },
+        {
+          "prefix": "Negative Keywords:",
+          "description": "List of words strictly forbidden"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Content Draft:",
+          "description": "The detailed written content."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.13",
+      "dspy": "3.0.3",
+      "cloudpickle": "3.1"
+    }
+  }
+}
